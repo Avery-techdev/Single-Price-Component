@@ -1,0 +1,6 @@
+.frame {
+  width: 650px;
+  border-radius: 10px;
+  display: block;
+  margin: 100px auto;
+}
