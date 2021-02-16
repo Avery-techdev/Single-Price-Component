@@ -1,6 +1,39 @@
+h1 {
+  font-size: 30px;
+  color: #2bb3b1;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 22px;
+  color: #c0df34;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.container {
+  width: 1440px;
+}
+
 .frame {
-  width: 650px;
+  width: 800px;
   border-radius: 10px;
   display: block;
   margin: 100px auto;
+  font-family: "Karla", sans-serif;
+}
+
+.join-component {
+  padding: 40px;
+}
+
+.gain-access {
+  font-size: 16px;
+  color: hsl(218, 22%, 67%);
+  font-weight: 700;
+}
+
+.row {
+  padding: 40px;
 }
