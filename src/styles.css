@@ -17,7 +17,7 @@ h2 {
 }
 
 .frame {
-  width: 800px;
+  width: 750px;
   border-radius: 10px;
   display: block;
   margin: 100px auto;
@@ -28,12 +28,55 @@ h2 {
   padding: 40px;
 }
 
-.gain-access {
-  font-size: 16px;
+.grey-heading {
+  font-size: 18px;
   color: hsl(218, 22%, 67%);
   font-weight: 700;
 }
 
 .row {
+  padding-left: 12px;
+}
+
+.monthly-component {
   padding: 40px;
+  background-color: #2ab2af;
+  border-radius: 0px 0px 0px 10px;
+}
+
+.white-heading {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.dollar {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.per-month {
+  position: relative;
+  top: -6px;
+  color: #80e4e6;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.white-text {
+  color: #ffffff;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: hsl(71, 73%, 54%);
+  color: #ffffff;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  font-size: 20px;
+  font-weight: 700;
 }
