@@ -12,6 +12,11 @@ h2 {
   margin-bottom: 20px;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 .container {
   width: 1440px;
 }
@@ -35,7 +40,7 @@ h2 {
 }
 
 .row {
-  padding-left: 12px;
+  padding: 0 11px;
 }
 
 .monthly-component {
@@ -79,4 +84,15 @@ h2 {
   width: 100%;
   font-size: 20px;
   font-weight: 700;
+}
+
+.why-component {
+  padding: 40px;
+  background-color: #4abebd;
+  border-radius: 0px 0px 10px 0px;
+}
+
+.grey-text {
+  color: #e5eff5;
+  font-size: 18px;
 }
