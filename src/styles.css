@@ -49,7 +49,7 @@ a {
 }
 
 .monthly-component {
-  padding: 40px;
+  padding: 50px;
   background-color: #2ab2af;
   border-radius: 0px 0px 0px 10px;
 }
@@ -77,8 +77,8 @@ a {
 
 .white-text {
   color: #ffffff;
-  font-size: 20px;
-  margin-bottom: 20px;
+  font-size: 18px;
+  margin-bottom: 30px;
 }
 
 .btn {
@@ -87,9 +87,10 @@ a {
   display: block;
   margin: 0 auto;
   width: 100%;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700;
   transition: all 500ms ease;
+  padding: 15px;
 }
 
 .btn:hover {
