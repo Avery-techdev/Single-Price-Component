@@ -17,6 +17,11 @@ ul {
   padding-left: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #c0df34;
+}
+
 .container {
   width: 1440px;
 }
@@ -101,4 +106,9 @@ ul {
 .grey-text {
   color: #e5eff5;
   font-size: 18px;
+}
+
+.attribution {
+  color: #4abebd;
+  text-align: center;
 }
